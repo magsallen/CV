@@ -2,10 +2,10 @@
 
 Word Nerd turned Junior Developer.
 
-And just like that, I fell in love with coding. The culture of agile working, failing fast, sharing often and working collaboratively clicked with me. Not to mention the infinite possibilities to build and shape the world that coding offers. So I signed-up for a incredible, intensive Makers Academy bootcamp.
+And just like that, I fell in love with coding. The culture of agile working, failing fast, sharing often and working collaboratively clicked with me. Not to mention the infinite possibilities to build and shape the world that coding offers. So I signed-up for an incredible, intensive Makers Academy bootcamp.
 
-In four months I’ve worked my way from code newbie to capable junior developer with the ability to write
-clean, maintainable and extendable code and following best practices. And I've never been happier.
+In four months I’ve worked my way from code newbie to capable Junior Developer with the ability to write
+clean, maintainable and extendable code while following best practices. And I've never been happier.
 
 I'm now looking for my first Junior Developer role as part of an empowered team of engineers sharing my passion for agile who want to make the world more awesome.
 
@@ -35,7 +35,6 @@ I'm a qualified linguist and a self-confessed communcation junkie. My ability to
 #### Clean Coder
 
 Makers Academy inspired in me a passion for building great software well. Syntax can be googled, but the instinct to test-drive code and follow the SOLID principles cannot. During my studies I've been singled out as an excellent pair partner and praised for my commitment to testing, committing often and maintaining a positive focus while collaborating.
-
 
 #### Endlessly Curious
 
@@ -106,5 +105,5 @@ Customer-facing roles while studying
 
 - Yoga
 - Coffee
-- Recommending books
-- Roller-blading
+- Recommending brilliant books
+- Roller-blading around London
