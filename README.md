@@ -12,7 +12,7 @@ I'm now looking for my first Junior Developer role as part of an empowered team 
 
 #### Communication Queen
 
-I'm a qualified linguist and a self-confessed communcation junkie. My ability to understand people and explain complex ideas simply has been an asset as I learned to code. I honed this skill while working with children's media which involved being sensitive to the needs of unique users and producing tons of targeted content.
+I'm a qualified linguist and a self-confessed communication junkie. My ability to understand people and explain complex ideas simply has been an asset as I learned to code. I honed this skill while working with children's media which involved being sensitive to the needs of unique users and producing tons of targeted content.
 
 #### Endlessly Curious
 
