@@ -1,12 +1,14 @@
 # Maggie Allen
 
+[Skills](#skills) | [Some Projects](#some) | [Education](#education) | [Previous Roles](#previous) | [Things I enjoy besides coding](#things) | [Get in touch](#get)
+
 Word Nerd turned Junior Developer.
 
-And just like that, I fell in love with coding. The culture of agile working, failing fast, sharing often and working collaboratively clicked with me. Not to mention the infinite possibilities to build and shape the world that coding offers. So I signed-up for the incredible, intensive Makers Academy bootcamp.
+And just like that, I fell in love with coding. The culture of agile working, failing fast, sharing often and working collaboratively clicked with me. Not to mention The infinite possibilities to build and shape the world that coding offers. So I joined a coding bootcamp.
 
-In just four months I’ve worked my way from code newbie to capable Junior Developer with the ability to write clean, maintainable and extendable code while following cutting-edge best practices. And I've never been happier.
+In just four months I’ve worked my way from code newbie to capable Junior Developer with the ability to write clean, maintainable and extendable code while following cutting-edge best practices. I'm engaged with the community, coaching fellow learners at codebar and enjoying meetups. And I've never been happier.
 
-I'm now looking for my first Junior Developer role as part of an empowered team of engineers sharing my passion for agile who want to make the world more awesome.
+I'm now looking for my first Junior Developer role as part of an empowered team of engineers sharing my passion for agile who want to make the world more awesome. 
 
 ## Skills
 
@@ -20,7 +22,7 @@ I'm a quick and enthusiastic learner and endlessly curious about why things work
 
 #### Problem Solver
 
-I love talking through puzzles, breaking them down into their logical parts and building amazing solutions. When building a backend API for my Makers final project, I co-designed clean, readable, refactored code from scratch and got to see it work smoothly in our team's final project.
+I love talking through puzzles, breaking them down into their logical parts and building amazing solutions. When building a backend API for my Makers final project, I designed clean, readable, refactored code from scratch and got to see it work smoothly in our team's final project. I enjoy helping other learners in the community and coaching at codebar.
 
 #### Clean Coder
 
@@ -32,17 +34,17 @@ Having excellent attention to detail was key in my role as an editor and proofre
 
 ## Some Projects
 
-#### No Parks After Dark
+#### [No Parks After Dark](https://github.com/pixelandpage/noParksAfterDarkBackend)
 
 From concept to MVP in just two weeks using 70% new technologies and a lot of shared tenacity. No Parks After Dark is a safer-routing app that displays directions from A to B on android and IOS. Nightmode automatically routes around parks, tunnels, alleyways and no-through-roads so you can be confident that your journey home will feel safe from beginning to end.  
 **Built With:** Angular.js, Node.js, Express, JavaScript, Here Maps APIs, Google Places API, Cordova geolocator service, Ionic, Heroku
 
-#### UOI (You Owe I)
+#### [UOI (You Owe I)](https://github.com/pixelandpage/uoi)
 
 Eliminating the social awkwardness of managing IOUs, this handy app sends payment reminder emails to your friends and accepts payments through Stripe.  
 **Built With:** Ruby on Rails, HTML, CSS & Materialize, ActionMailer, Stripe
 
-#### Makers BnB
+#### [Makers BnB](https://github.com/pixelandpage/makersBnB)
 
 A clone of AirBnB which allows you to post, view, and manage booking requests.  
 **Built With:** Ruby, Sinatra, PostgreSQL, HTML, CSS & Bootstrap
@@ -51,7 +53,7 @@ A clone of AirBnB which allows you to post, view, and manage booking requests.
 
 #### Makers Academy (April to July 2016)
 
-Makers Academy is highly selective, intensive and inspiring 12-week coding bootcamp teaching cutting-edge coding techniques, software craftsmanship, pair programming and more.
+Makers Academy is a highly selective, intensive and inspiring 12-week coding bootcamp teaching cutting-edge coding techniques, software craftsmanship, pair programming and more.
 
 **Langauges:**
 Ruby, Javascript, HTML & CSS
@@ -104,5 +106,9 @@ Customer-facing roles while studying
 - Drinking Coffee
 - Listening to Podcasts
 - Reading Books
-- Trying to juggle
+- Learning to juggle
 - Talking about all these things
+
+## Get in touch
+
+[maggie@pixelandpage.co.uk](maggie@pixelandpage.co.uk)
