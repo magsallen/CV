@@ -1,6 +1,6 @@
 # Maggie Allen
 
-[Skills](#skills) | [Some Projects](#some) | [Education](#education) | [Previous Roles](#previous) | [Things I enjoy besides coding](#things) | [Get in touch](#get)
+[Skills](#skills) | [Some Projects](#projects) | [Education](#education) | [Previous Roles](#roles) | [Things I enjoy besides coding](#interests) | [Get in touch](#contact)
 
 Word Nerd turned Junior Developer.
 
@@ -8,9 +8,9 @@ And just like that, I fell in love with coding. The culture of agile working, fa
 
 In just four months I’ve worked my way from code newbie to capable Junior Developer with the ability to write clean, maintainable and extendable code while following cutting-edge best practices. I'm engaged with the community, coaching fellow learners at codebar and enjoying meetups. And I've never been happier.
 
-I'm now looking for my first Junior Developer role as part of an empowered team of engineers sharing my passion for agile who want to make the world more awesome. 
+I'm now looking for my first Junior Developer role as part of an empowered team of engineers sharing my passion for agile who want to make the world more awesome.
 
-## Skills
+## <a name="skills">Skills</a>
 
 #### Communication Queen
 
@@ -32,7 +32,7 @@ Makers Academy inspired in me a passion for building great software well. Syntax
 
 Having excellent attention to detail was key in my role as an editor and proofreader. I was often the last person to see a book before it was printed and responsible for ensuring it was error-free. Now, the ability to quickly spot syntax errors has become a superskill in my debugging toolkit.
 
-## Some Projects
+## <a name="projects">Some Projects</a>
 
 #### [No Parks After Dark](https://github.com/pixelandpage/noParksAfterDarkBackend)
 
@@ -49,7 +49,7 @@ Eliminating the social awkwardness of managing IOUs, this handy app sends paymen
 A clone of AirBnB which allows you to post, view, and manage booking requests.  
 **Built With:** Ruby, Sinatra, PostgreSQL, HTML, CSS & Bootstrap
 
-## Education
+## <a name="education">Education</a>
 
 #### Makers Academy (April to July 2016)
 
@@ -82,7 +82,7 @@ OOP, TDD, XP, SOLID Design Principles, Agile Development, Pair Programming
 - Proofreading - The Publishing Training Centre
 - British Sign Language, Level 1
 
-## Previous Roles
+## <a name="roles">Previous Roles</a>
 
 **Hachette Children's Books** (Jan 2015 to Dec 2015)   
 *Editorial Assistant*  
@@ -100,7 +100,7 @@ Learning the practical and digital skills for success
 *Customer Service*  
 Customer-facing roles while studying
 
-## Things I enjoy besides coding
+## <a name="interests">Things I enjoy besides coding</a>
 
 - Practicing Yoga
 - Drinking Coffee
@@ -109,6 +109,6 @@ Customer-facing roles while studying
 - Learning to juggle
 - Talking about all these things
 
-## Get in touch
+## <a name="contact">Get in touch</a>
 
-[maggie@pixelandpage.co.uk](maggie@pixelandpage.co.uk)
+[maggie@pixelandpage.co.uk](mailto:maggie@pixelandpage.co.uk)
