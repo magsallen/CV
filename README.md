@@ -55,7 +55,7 @@ A clone of AirBnB which allows you to post, view, and manage booking requests.
 
 Makers Academy is a highly selective, intensive and inspiring 12-week coding bootcamp teaching cutting-edge coding techniques, software craftsmanship, pair programming and more.
 
-**Langauges:**
+**Languages:**
 Ruby, Javascript, HTML & CSS
 
 **Frameworks:**
