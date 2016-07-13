@@ -4,7 +4,7 @@
 
 Word Nerd turned Junior Developer.
 
-And just like that, I fell in love with coding. The culture of agile working, failing fast, sharing often and working collaboratively clicked with me. Not to mention The infinite possibilities to build and shape the world that coding offers. So I joined a coding bootcamp.
+And just like that, I fell in love with coding. The culture of agile working, failing fast, sharing often and working collaboratively clicked with me. Not to mention the infinite possibilities to build and shape the world that coding offers. So I joined a coding bootcamp.
 
 In just four months I’ve worked my way from code newbie to capable Junior Developer with the ability to write clean, maintainable and extendable code while following cutting-edge best practices. I'm engaged with the community, coaching fellow learners at codebar and enjoying meetups. And I've never been happier.
 
@@ -22,7 +22,7 @@ I'm a quick and enthusiastic learner and endlessly curious about why things work
 
 #### Problem Solver
 
-I love talking through puzzles, breaking them down into their logical parts and building amazing solutions. When building a backend API for my Makers final project, I designed clean, readable, refactored code from scratch and got to see it work smoothly in our team's final project. I enjoy helping other learners in the community and coaching at codebar.
+I love talking through puzzles, breaking them down into their logical parts and building amazing solutions. When building a backend API for my Makers final project, I designed clean, readable, refactored code from scratch and got to see it work smoothly in our team's final project. 
 
 #### Clean Coder
 
@@ -36,7 +36,7 @@ Having excellent attention to detail was key in my role as an editor and proofre
 
 #### [No Parks After Dark](https://github.com/pixelandpage/noParksAfterDarkBackend)
 
-From concept to MVP in just two weeks using 70% new technologies and a lot of shared tenacity. No Parks After Dark is a safer-routing app that displays directions from A to B on android and IOS. Nightmode automatically routes around parks, tunnels, alleyways and no-through-roads so you can be confident that your journey home will feel safe from beginning to end.  
+From concept to MVP in just two weeks using 70% new technologies and a lot of shared tenacity. No Parks After Dark is a safer-routing app that displays directions from A to B. Nightmode automatically routes around parks, tunnels, alleyways and no-through-roads so you can be confident that your journey home will feel safe from beginning to end.  
 **Built With:** Angular.js, Node.js, Express, JavaScript, Here Maps APIs, Google Places API, Cordova geolocator service, Ionic, Heroku
 
 #### [UOI (You Owe I)](https://github.com/pixelandpage/uoi)
