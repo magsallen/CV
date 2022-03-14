@@ -1,114 +1,102 @@
 # Maggie Allen
 
-[Skills](#skills) | [Some Projects](#projects) | [Education](#education) | [Previous Roles](#roles) | [Things I enjoy besides coding](#interests) | [Get in touch](#contact)
+## Senior Software Engineer
 
-Word Nerd turned Junior Developer.
+[Profile](#profile) | [Technologies](#technologies) | [Experience](#experience) | [Blog posts](#blogs) | [Qualifications](#qualifications) | [Get in touch](#contact)
 
-And just like that, I fell in love with coding. The culture of agile working, failing fast, sharing often and working collaboratively clicked with me. Not to mention the infinite possibilities to build and shape the world that coding offers. So I joined a coding bootcamp.
+---
+## <a name="profile">Profile</a>
+A focused and collaborative fullstack engineer with excellent communication, problem-solving skills and leadership skills. 
 
-In just four months I’ve worked my way from code newbie to capable Junior Developer with the ability to write clean, maintainable and extendable code while following cutting-edge best practices. I'm engaged with the community, coaching fellow learners at codebar and enjoying meetups. And I've never been happier.
+With 5+ years professional experience spanning CSS to CDNs I have a broad skillset that allows me to understand and resolve complex challenges and to deliver on work that I am deeply proud of. Alongside technical best practice I advocate for culture, accessibility, documentation and mentoring in my teams. 
 
-I'm now looking for my first Junior Developer role as part of an empowered team of engineers sharing my passion for agile who want to make the world more awesome.
+Beyond work, I am a boxer, a reader, a British Sign Language teacher and an active member of my local Women Who Code group. 
 
-## <a name="skills">Skills</a>
+---
+## <a name="technologies">Technologies</a>
+Languages:
+- Proficient: JavaScript, Typescript, NodeJS, React, HTML & CSS, SASS 
+- Also used: Python, Ruby, PHP
 
-#### Communication Queen
+Tooling:
+- Proficient: Webpack, Babel, Express.js, GraphQL, Heroku, Circle CI 
+- Also used: Splunk, Figma, AWS Lambda, S3, IAM
 
-I'm a qualified linguist and a self-confessed communication junkie. My ability to understand people and explain complex ideas simply has been an asset as I learned to code. I honed this skill while working with children's media which involved being sensitive to the needs of unique users and producing tons of targeted content.
+Databases: 
+- MongoDB, PostgreSQL, Neo4j, Redis
 
-#### Endlessly Curious
+Testing: 
+- Jest, Mocha & Chai, Enzyme, Puppeteer
 
-I'm a quick and enthusiastic learner and endlessly curious about why things work the way they do. Having joined my previous company during a period of upheaval I delved into the role, quickly becoming the team's expert in a new content system and the go-to tech guru. I aim to learn and improve by just 1% every day - which quickly adds up!
+---
+## <a name="experience">Experience</a>
+### __Financial Times__, Senior Software Engineer, August 2016-current
 
-#### Problem Solver
+#### Newsletters
+- Tech led a high-profile rewrite and redesign of Newsletters with company-wide impact, dubbed by FT Editor, Roula Khalaf, “The Year of the Newsletter”
+- Planned and prioritised work for a team of mixed-level developers
+- Identified and resolved blockers with stakeholders across multiple departments
+- Designed short and long term solutions to handle inconsistencies between data sources
 
-I love talking through puzzles, breaking them down into their logical parts and building amazing solutions. When building a backend API for my Makers final project, I designed clean, readable, refactored code from scratch and got to see it work smoothly in our team's final project. 
+#### Platforms
+- Shaped technical strategy and produced technical designs for proposed projects
+- Identified redundant code and created a plan for archiving legacy applications across the department
+- Proposed and implemented site-wide security improvements
+- Improved documentation for shared developer tools
 
-#### Clean Coder
+#### Page Kit
+- Built a flexible, extendable frontend library to manage shared assets, provide bundle-splitting, layouts, core branding and UI components to user-facing applications
+- Migrated all user-facing services, collaborating closely with Engineers, Delivery, Editorial and Support teams to mitigate risks
+- Defined a new front-end strategy 
 
-Makers Academy inspired in me a passion for building great software well. Syntax can be googled, but the instinct to test-drive code and follow the SOLID principles cannot. During my studies I've been singled out as an excellent pair partner and praised for my commitment to testing, committing often and maintaining a positive focus while collaborating.
+#### Interview Refresh
+- Designed and rolled out a new tech test and interviews process to reduce bias in hiring while improving the experience for both candidates and interviewers
 
-#### Detail Driven
+#### Reliability Engineering
+- Built UI components for a service monitoring technical assets and serving out-of-hours support
 
-Having excellent attention to detail was key in my role as an editor and proofreader. I was often the last person to see a book before it was printed and responsible for ensuring it was error-free. Now, the ability to quickly spot syntax errors has become a superskill in my debugging toolkit.
+#### GDPR Consent
+- Supported a cross-departmental, cross-discipline effort to build a new consent management platform and refactor existing systems for GDPR compliance
 
-## <a name="projects">Some Projects</a>
+#### myFT
+- Built an onboarding banner to target and convert new users to the platform
+- Prototyped a blended behavioural and content recommendations engine
 
-#### [No Parks After Dark](https://github.com/pixelandpage/noParksAfterDarkBackend)
 
-From concept to MVP in just two weeks using 70% new technologies and a lot of shared tenacity. No Parks After Dark is a safer-routing app that displays directions from A to B. Nightmode automatically routes around parks, tunnels, alleyways and no-through-roads so you can be confident that your journey home will feel safe from beginning to end.  
-**Built With:** Angular.js, Node.js, Express, JavaScript, Here Maps APIs, Google Places API, Cordova geolocator service, Ionic, Heroku
+---
+## <a name="blogs">Blog posts</a>
 
-#### [UOI (You Owe I)](https://github.com/pixelandpage/uoi)
+[Achievement Unlocked: Migrating FT.com to Page Kit](https://medium.com/ft-product-technology/achievement-unlocked-6edbc0b44ddd)
 
-Eliminating the social awkwardness of managing IOUs, this handy app sends payment reminder emails to your friends and accepts payments through Stripe.  
-**Built With:** Ruby on Rails, HTML, CSS & Materialize, ActionMailer, Stripe
+[A Developer’s Guide to GDPR that won’t make you sweat](https://medium.com/ft-product-technology/a-developers-guide-to-gdpr-that-won-t-make-you-sweat-4f1f7f1d9c8b)
 
-#### [Makers BnB](https://github.com/pixelandpage/makersBnB)
+[Future Leaders: Maggie Allen, Developer](https://medium.com/ft-product-technology/future-leaders-maggie-allen-developer-ad41232387c5)
 
-A clone of AirBnB which allows you to post, view, and manage booking requests.  
-**Built With:** Ruby, Sinatra, PostgreSQL, HTML, CSS & Bootstrap
 
-## <a name="education">Education</a>
+---
+## <a name="qualifications">Qualifications</a>
 
-#### Makers Academy (April to July 2016)
+__Bootcamp Graduate__
+Makers Academy, April-July 2016
 
-Makers Academy is a highly selective, intensive and inspiring 12-week coding bootcamp teaching cutting-edge coding techniques, software craftsmanship, pair programming and more.
+__AWS Associate Architect__
+AWS Certification, July 2017
 
-**Languages:**
-Ruby, Javascript, HTML & CSS
+__British Sign Language Level 1__
+Belfast Metropolitan College, 2005-2006
 
-**Frameworks:**
-Ruby on Rails, Angular.js, Node.js, Express, Sinatra
+__MA, Linguistics__
+Queen's University Belfast, 2011-2012
 
-**Databases:**
-PostgreSQL, DataMapper, Active Record
+__BA, English Language and Linguistics__ 
+Queen's University Belfast, 2007-2010
 
-**Testing:**
-RSpec, Jasmine, Capybara, Protractor, Karma, Mocha
 
-**Principles:**
-OOP, TDD, XP, SOLID Design Principles, Agile Development, Pair Programming
-
-#### Queen's University Belfast (2007 to 2012)
-
-- Masters in Linguistics - Commendation
-- Bachelors in English Language - 2:1
-
-#### Other Training
-
-- Agile Content Design course - with Sarah Richards, former Head of Content, GDS
-- Copy-writing - The Publishing Training Centre
-- Proofreading - The Publishing Training Centre
-- British Sign Language, Level 1
-
-## <a name="roles">Previous Roles</a>
-
-**Hachette Children's Books** (Jan 2015 to Dec 2015)   
-*Editorial Assistant*  
-A creative and technical role involving content, design, pitching, client care, working to specification and brand management
-
-**Orion Publishing Group** (May 2014 to Jan 2015)    
-*Executive Assistant to the MD and deputy CEO*  
-Organisation and professional support - think Anne Hathaway in *The Devil Wears Prada*
-
-**Publishing, Various** (March 2013 to May 2014)   
-*Work Experience and Interning*  
-Learning the practical and digital skills for success
-
-**Retail, Various** (August 2007 to Feb 2013)   
-*Customer Service*  
-Customer-facing roles while studying
-
-## <a name="interests">Things I enjoy besides coding</a>
-
-- Practicing Yoga
-- Drinking Coffee
-- Listening to Podcasts
-- Reading Books
-- Learning to juggle
-- Talking about all these things
-
+---
 ## <a name="contact">Get in touch</a>
 
-[maggie@pixelandpage.co.uk](mailto:maggie@pixelandpage.co.uk)
+__email:__ mags@allen.digital
+
+__twitter:__ [@mgr_allen](https://twitter.com/mgr_allen)
+
+__github:__ [magsallen](github.com/magsallen)
