@@ -1,4 +1,4 @@
-# Maggie Allen
+# Mags Allen
 
 ## Senior Software Engineer
 
@@ -6,11 +6,11 @@
 
 ---
 ## <a name="profile">Profile</a>
-A focused and collaborative fullstack engineer with excellent communication, problem-solving skills and leadership skills. 
+A focused and collaborative fullstack engineer with excellent communication, problem-solving and leadership skills. 
 
-With 5+ years professional experience spanning CSS to CDNs I have a broad skillset that allows me to understand and resolve complex challenges and to deliver on work that I am deeply proud of. Alongside technical best practice I advocate for culture, accessibility, documentation and mentoring in my teams. 
+With 8 years professional experience spanning CSS to CDNs I have a broad skill set that allows me to understand and resolve complex challenges and deliver on work that I am deeply proud of. Alongside technical best practice I advocate for culture, accessibility, documentation and mentoring in my teams. 
 
-Beyond work, I am a boxer, a reader, a British Sign Language teacher and an active member of my local Women Who Code group. 
+Beyond work, I am a runner, a reader, a British Sign Language learner and a former City Lead of Women Who Code Belfast. 
 
 ---
 ## <a name="technologies">Technologies</a>
@@ -30,10 +30,17 @@ Testing:
 
 ---
 ## <a name="experience">Experience</a>
-### __Financial Times__, Senior Software Engineer, August 2016-current
+### __Financial Times__, Senior Software Engineer, August 2016-July 2024
+
+#### Content Pipeline
+- Part of an expert team reimagining how article content gets served on FT.com using Typescript, GraphQL and unist
+- Established a schema and a shared language for describing content on its journey from Editorial through to rendering
+- Reduced the number of transformations being applied to content data
+- Prioritised monitoring, dashboards and comprehensive logs to assist debugging
+- Regularly blogged about and presented our work internally to share progress and gather feedback
 
 #### Newsletters
-- Tech led a high-profile rewrite and redesign of Newsletters with company-wide impact, dubbed by FT Editor, Roula Khalaf, “The Year of the Newsletter”
+- Tech led a rebuild and redesign of the Newsletters portal with company-wide impact
 - Planned and prioritised work for a team of mixed-level developers
 - Identified and resolved blockers with stakeholders across multiple departments
 - Designed short and long term solutions to handle inconsistencies between data sources
@@ -59,7 +66,7 @@ Testing:
 - Supported a cross-departmental, cross-discipline effort to build a new consent management platform and refactor existing systems for GDPR compliance
 
 #### myFT
-- Built an onboarding banner to target and convert new users to the platform
+- Built onboarding artefacts to target and convert new users to the platform
 - Prototyped a blended behavioural and content recommendations engine
 
 
@@ -96,7 +103,5 @@ Queen's University Belfast, 2007-2010
 ## <a name="contact">Get in touch</a>
 
 __email:__ mags@allen.digital
-
-__twitter:__ [@mgr_allen](https://twitter.com/mgr_allen)
 
 __github:__ [magsallen](github.com/magsallen)
